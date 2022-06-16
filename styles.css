@@ -15,15 +15,27 @@ li{
 .navbar{
     padding:0 40px 0 22px ;
     width: auto;
-    height: 40px;
+    height: 20px;
 }
 .slider{
     width: auto;
-    height: 400px;
-    position: absolute;
+    height: 300px;
+   
+   
    
 }
-.slider-content{
-    float: center;
+  
+
+.features{
     
+    width: auto;
+    height:300px;
+
 }
+section {
+    float: left;
+    margin: 0 1.5%;
+    width: 30%;
+    height: 200px;
+    background-color: white;
+  }
