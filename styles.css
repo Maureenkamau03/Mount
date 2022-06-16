@@ -15,21 +15,19 @@ li{
 .navbar{
     padding:0 40px 0 22px ;
     width: auto;
-    height: 20px;
+    height: 50px;
+    background-color: white;
 }
 .slider{
     width: auto;
     height: 300px;
-   
-   
-   
+    
 }
   
 
 .features{
     
-    width: auto;
-    height:300px;
+   text-align: center;
 
 }
 section {
@@ -38,4 +36,12 @@ section {
     width: 30%;
     height: 200px;
     background-color: white;
+    align-items: center;
+  }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
   }
